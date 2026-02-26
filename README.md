@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Aryan 🏈⚽</h1>
+<h1 align="center">Hey, I'm Aryan 🏈⚽</h1>
 
 <p align="center">
   <b>Software Engineer · Sports Nerd · Building things that ship</b>
@@ -7,10 +7,11 @@
 <p align="center">
   🎓 UC Santa Cruz Alumni — Computer Science<br>
   📍 Bay Area, CA<br>
-  🏈 Patriots fan since birth. Yes, even now. Loyalty > Logic<br>
-  ⚽ Manchester City — Treble winners, forever Cityzens 🩵<br>
-  🔭 Currently building ML-powered sports & fitness apps<br>
-  💬 Ask me about NFL analytics, RAG pipelines, or why Brady is the GOAT<br>
+  🏈 Patriots <br>
+  ⚽ Manchester City <br>
+  🏀 Warriors <br>
+  🔭 Currently building AI/ML projects<br>
+  💬 Ask me about NFL analytics, RAG pipelines, or why Brady is the 🐐<br>
   📫 How to reach me: <a href="mailto:aryandhpatel12@gmail.com">aryandhpatel12@gmail.com</a>
 </p>
 
@@ -57,8 +58,6 @@
       </p>
     </td>
     <td width="50%">
-      <h3>🐦 <a href="https://github.com/AneeshT10/BirdWatchingApp">BirdWatchingApp</a></h3>
-      <p>Collaborative bird watching application — log sightings, explore species, and share discoveries with fellow birders.</p>
     </td>
   </tr>
 </table>
@@ -114,6 +113,5 @@
 ---
 
 <p align="center">
-  <i>"We're on to Cincinnati."</i> — Bill Belichick<br><br>
   <b>Always building. Always shipping. LFG. 🏈</b>
 </p>
